@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omarby
-- 👀 I’m interested in Wood Working, Welding and Obviously, programming
-- 🌱 I’m currently learning SQL and JAVA
+- 👀 I’m interested in Wood Working, Classic Cars and Obviously, programming
+- 🌱 I’m currently learning Backend Dev. With PHP
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me omerfrko@gmail.com
 
